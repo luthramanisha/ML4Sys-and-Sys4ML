@@ -42,9 +42,9 @@ Additionally, you can submit a 2-minute video about the position paper, e.g., by
   * New data system infrastructures and tools for applied ML
 
 ### Submission Timeline 
-- Abstract submission: December 3rd, 2024
-- Notification on acceptance: December 17th, 2024
-- (Tentative) workshop dates: March 3rd / March 4th, 2025 
+- **Abstract submission: December 3rd, 2024**
+- **Notification on acceptance: December 17th, 2024**
+- **(Tentative) workshop dates: March 3rd / March 4th, 2025** 
 
 ## Organization 
 
