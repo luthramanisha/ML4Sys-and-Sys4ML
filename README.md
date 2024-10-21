@@ -44,7 +44,11 @@ Additionally, you can submit a 2-minute video about the position paper, e.g., by
 ### Submission Timeline 
 - **Abstract submission: December 3rd, 2024**
 - **Notification on acceptance: December 17th, 2024**
-- **(Tentative) workshop dates: March 3rd / March 4th, 2025** 
+- **(Tentative) workshop dates: March 3rd / March 4th, 2025**
+
+**Where to submit: [Submission Form](https://forms.gle/e5ZYQ6P7THg6xF9F8)**
+
+**In case of questions, contact us at mlsystemsworkshop.btw@gmail.com**
 
 ## Organization 
 
