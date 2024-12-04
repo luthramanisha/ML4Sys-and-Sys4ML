@@ -15,6 +15,7 @@ This year in the ML4Sys and Sys4ML workshop we are calling for **one-page abstra
 - a one-page abstract on an exciting research or industry problem for the submission, and
 - a short summary about the author (short bio) including corresponding work done related to the problem. Links to the author’s homepage and/or LinkedIn can be also included.
 
+Please use the submission instructions of the main conference, LNI style (see https://gi.de/service/publikationen/lni) for the abstract. 
 Additionally, you can submit a 2-minute video about the position paper, e.g., by demonstration or including a presentation about their work. Instead of a video, a maximum of 3 slides explaining the idea can also be submitted.
 
 ### Topics of Interest 
@@ -42,8 +43,8 @@ Additionally, you can submit a 2-minute video about the position paper, e.g., by
   * New data system infrastructures and tools for applied ML
 
 ### Submission Timeline 
-- **Abstract submission: December 3rd, 2024**
-- **Notification on acceptance: December 17th, 2024**
+- **Abstract submission: ~~December 3rd, 2024~~ December 15th, 2024 (11:59 pm CET)**
+- **Notification on acceptance: ~~December 17th, 2024~~ January, 10th, 2025**
 - **(Tentative) workshop dates: March 3rd / March 4th, 2025**
 
 **Where to submit: [Submission Form](https://forms.gle/e5ZYQ6P7THg6xF9F8)**
