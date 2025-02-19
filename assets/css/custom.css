@@ -1,0 +1,26 @@
+/* Reduce width of the left section */
+body > header {
+    width: 180px; /* Adjust as needed */
+    padding: 10px; /* Reduce padding */
+}
+
+/* Ensure the main content shifts properly */
+body > main {
+    margin-left: 200px; /* Adjust according to header width */
+}
+
+/* Resize the logo */
+.site-logo img {
+    max-width: 80%; /* Reduce logo size */
+}
+
+/* Make sure it doesn't break on small screens */
+@media (max-width: 768px) {
+    body > header {
+        width: 100%;
+    }
+    body > main {
+        margin-left: 0;
+    }
+}
+

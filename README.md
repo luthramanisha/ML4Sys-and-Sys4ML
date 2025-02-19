@@ -1,5 +1,48 @@
 # Second Workshop on ML4Sys and Sys4ML
 
+## Organization 
+
+### Workshop Chairs and Selection Committee
+* Manisha Luthra (TU Darmstadt & DFKI)
+* Andreas Kipf (University of Technology Nuremberg)
+* Matthias Böhm (TU Berlin & BIFOLD)
+
+## Program
+
+| Time        |  | Speaker                                      | Title                                            |
+|------------|-------|----------------------------------------------|--------------------------------------------------|
+| 09:00 - 09:20 |      | Matthias and Andreas            | Opening Remarks                                    |
+
+### Systems for ML (Matthias)
+
+| Time        |  | Speaker                                      | Title                                            |
+|------------|-------|----------------------------------------------|--------------------------------------------------|
+| 09:20 - 09:40 | <img src="./speakers/maximilian_schuele.jpg" alt="Photo" width="200"> | Maximilian Schüle (Uni Bamberg) | Blue Elephants Inspecting Pandas: Inspection and Execution of Machine Learning Pipelines in SQL |
+| 09:40 - 10:00 | <img src="./speakers/maximilian_boether.jpg" alt="Photo" width="200"> | Maximilian Böther (ETH Zurich) | Modyn: Data-Centric Machine Learning Pipeline Orchestration |
+| 10:00 - 10:30 | <img src="./speakers/stefan_grafberger.jpg" alt="Photo" width="200"> | Stefan Grafberger (TU Berlin) | mlwhatif: Data-Centric What-If Analysis for Native Machine Learning Pipelines |
+
+### Coffee Break
+
+### Applications & Benchmarks (Matthias)
+
+| Time        |  | Speaker                                      | Title                                            |
+|------------|-------|----------------------------------------------|--------------------------------------------------|
+| 11:00 - 11:20 | <img src="./speakers/stefan_hagedorn.jpg" alt="Photo" width="200"> <img src="./speakers/steffen.jpg" alt="Photo" width="200"> | Stefan Hagedorn, Steffen Kläbe (Actian)   | Experiences of Implementing In-Database TPCx-AI |
+| 11:20 - 11:40 | -     | Akanksha Vijayvergiya (Uni Passau)        | Time-Series Analysis for Life-Science Data |
+| 11:40 - 12:00 | <img src="./speakers/jan-micha.jpg" alt="Photo" width="200"> <img src="./speakers/liane.jpg" alt="Photo" width="200">| Jan-Micha Bodensohn, Liane Vogel (TU Darmstadt & DFKI) | Large Language Models for Enterprise Data Engineering |
+| 12:00 - 12:30 | <img src="./speakers/thaleia.jpg" alt="Photo" width="200"> | Thaleia-Dimitra Doudali (IMDEA) | Keep it Simple, Sustainable! When Is ML Necessary in Cloud Resource Management? |
+
+### Lunch Break
+
+### ML for Systems (Andreas)
+
+| Time        |  | Speaker                                      | Title                                            |
+|------------|-------|----------------------------------------------|--------------------------------------------------|
+| 13:15 - 13:45 | -     | Silvan Reiner (Uni Konstanz)              | ML4DB: Don’t Learn What You Already Know |
+| 13:45 - 14:05 | <img src="./speakers/johannes.jpg" alt="Photo" width="200"> | Johannes Wehrstein (TU Darmstadt) | GRACEFUL: A Learned Cost Estimator For UDFs |
+| 14:05 - 14:35 | <img src="./speakers/giorgio.jpg" alt="Photo" width="200"> | Giorgio Vinciguerra (Uni Pisa) | Learned Compression of Nonlinear Time Series With Random Access |
+| 14:35 - 15:05 | <img src="./speakers/immanuel.png" alt="Photo" width="200"> | Immanuel Trummer (Cornell) | CheaPT: Using Language Models Without Breaking the Bank |
+
 ## Workshop Description
 
 The rapid advances in machine learning (ML) have significantly increased its adoption across various fields including data systems, both in academia and industry. These advancements have not only enhanced existing data systems but, in some cases, have completely transformed their internal components, leading to the development of an important field of “learned data system components” in the ML for Systems area. Similarly, a well-structured systems approach has also played a crucial role in advancing current ML techniques and systems, forming the basis for the Systems for the ML area.
@@ -50,14 +93,3 @@ Additionally, you can submit a 2-minute video about the position paper, e.g., by
 **Where to submit: [Submission Form](https://forms.gle/e5ZYQ6P7THg6xF9F8)**
 
 **In case of questions, contact us at mlsystemsworkshop.btw@gmail.com**
-
-## Organization 
-
-### Workshop chairs and selection committee 
-* Manisha Luthra (TU Darmstadt & DFKI)
-* Andreas Kipf (University of Technology Nuremberg)
-* Matthias Böhm (TU Berlin & BIFOLD)
-
-
-
-
