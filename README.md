@@ -28,9 +28,9 @@
 | Time        |  | Speaker                                      | Title                                            |
 |------------|-------|----------------------------------------------|--------------------------------------------------|
 | 11:00 - 11:20 | <img src="./speakers/stefan_hagedorn.jpg" alt="Photo" width="200"> <img src="./speakers/steffen.jpg" alt="Photo" width="200"> | Stefan Hagedorn, Steffen Kläbe (Actian)   | Experiences of Implementing In-Database TPCx-AI |
-| 11:20 - 11:40 | <img src="./speakers/akanksha.jpg" alt="Photo" width="200"> | Akanksha Vijayvergiya (Uni Passau) | Time-Series Analysis for Life-Science Data |
+| 11:20 - 11:40 | <img src="./speakers/thaleia.jpg" alt="Photo" width="200"> | Thaleia-Dimitra Doudali (IMDEA) | Keep it Simple, Sustainable! When Is ML Necessary in Cloud Resource Management? |
 | 11:40 - 12:00 | <img src="./speakers/jan-micha.jpg" alt="Photo" width="200"> <img src="./speakers/liane.jpg" alt="Photo" width="200">| Jan-Micha Bodensohn, Liane Vogel (TU Darmstadt & DFKI) | Large Language Models for Enterprise Data Engineering |
-| 12:00 - 12:30 | <img src="./speakers/thaleia.jpg" alt="Photo" width="200"> | Thaleia-Dimitra Doudali (IMDEA) | Keep it Simple, Sustainable! When Is ML Necessary in Cloud Resource Management? |
+| 12:00 - 12:30 | <img src="./speakers/akanksha.jpg" alt="Photo" width="200"> | Akanksha Vijayvergiya (Uni Passau) | Time-Series Analysis for Life-Science Data |
 
 ### Lunch Break
 
