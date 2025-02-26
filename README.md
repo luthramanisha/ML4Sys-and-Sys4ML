@@ -28,7 +28,7 @@
 | Time        |  | Speaker                                      | Title                                            |
 |------------|-------|----------------------------------------------|--------------------------------------------------|
 | 11:00 - 11:20 | <img src="./speakers/stefan_hagedorn.jpg" alt="Photo" width="200"> <img src="./speakers/steffen.jpg" alt="Photo" width="200"> | Stefan Hagedorn, Steffen Kläbe (Actian)   | Experiences of Implementing In-Database TPCx-AI |
-| 11:20 - 11:40 | -     | Akanksha Vijayvergiya (Uni Passau)        | Time-Series Analysis for Life-Science Data |
+| 11:20 - 11:40 | <img src="./speakers/akanksha.jpg" alt="Photo" width="200"> | Akanksha Vijayvergiya (Uni Passau) | Time-Series Analysis for Life-Science Data |
 | 11:40 - 12:00 | <img src="./speakers/jan-micha.jpg" alt="Photo" width="200"> <img src="./speakers/liane.jpg" alt="Photo" width="200">| Jan-Micha Bodensohn, Liane Vogel (TU Darmstadt & DFKI) | Large Language Models for Enterprise Data Engineering |
 | 12:00 - 12:30 | <img src="./speakers/thaleia.jpg" alt="Photo" width="200"> | Thaleia-Dimitra Doudali (IMDEA) | Keep it Simple, Sustainable! When Is ML Necessary in Cloud Resource Management? |
 
@@ -38,7 +38,7 @@
 
 | Time        |  | Speaker                                      | Title                                            |
 |------------|-------|----------------------------------------------|--------------------------------------------------|
-| 13:15 - 13:45 | -     | Silvan Reiner (Uni Konstanz)              | ML4DB: Don’t Learn What You Already Know |
+| 13:15 - 13:45 | <img src="./speakers/silvan.jpg" alt="Photo" width="200"> | Silvan Reiner (Uni Konstanz) | ML4DB: Don’t Learn What You Already Know |
 | 13:45 - 14:05 | <img src="./speakers/johannes.jpg" alt="Photo" width="200"> | Johannes Wehrstein (TU Darmstadt) | GRACEFUL: A Learned Cost Estimator For UDFs |
 | 14:05 - 14:35 | <img src="./speakers/giorgio.jpg" alt="Photo" width="200"> | Giorgio Vinciguerra (Uni Pisa) | Learned Compression of Nonlinear Time Series With Random Access |
 | 14:35 - 15:05 | <img src="./speakers/immanuel.png" alt="Photo" width="200"> | Immanuel Trummer (Cornell) | CheaPT: Using Language Models Without Breaking the Bank |
