@@ -1,11 +1,13 @@
 # Second Workshop on ML4Sys and Sys4ML
 
-## Organization 
-
-### Workshop Chairs and Selection Committee
+## Organizers
 * Manisha Luthra (TU Darmstadt & DFKI)
 * Andreas Kipf (University of Technology Nuremberg)
 * Matthias Böhm (TU Berlin & BIFOLD)
+
+## Date and Location
+* March 4, 2025 (co-located with [BTW 2025](https://btw2025.gi.de/))
+* [An d. Weberei 5, 96049 Bamberg](https://maps.app.goo.gl/pZA4UP4UehMky1Ge8) (room WE5/01.004)
 
 ## Program
 
