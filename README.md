@@ -12,6 +12,7 @@ Live site: https://luthramanisha.github.io/ML4Sys-and-Sys4ML/
 | `call-for-abstracts/index.html` | Call for Abstracts |
 | `program/index.html` | Program |
 | `participation/index.html` | Participation |
+| `2023/index.html` | Placeholder for the 2023 tutorial workshop (original site no longer online) |
 | `2025/` | Frozen copy of the 2025 edition in its original theme (static HTML, not processed by Jekyll) |
 | `_layouts/default.html` | Shared navbar and footer |
 | `assets/css/main.css` | Styles |
