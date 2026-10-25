@@ -1,2 +1,12 @@
-theme: jekyll-theme-minimal
-logo: logo/BTW25-Logo.svg
+title: "ML4Sys & Sys4ML 2027"
+description: "Third Workshop on ML for Systems and Systems for ML, co-located with BTW 2027 at LMU Munich on March 16, 2027."
+url: "https://luthramanisha.github.io"
+baseurl: "/ML4Sys-and-Sys4ML"
+markdown: kramdown
+contact_email: ml4sys.sys4mlworkshop@gmail.com
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
